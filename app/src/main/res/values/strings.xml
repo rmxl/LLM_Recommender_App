@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Recommender</string>
+    <string name="loading_model">Loading LLM</string>
+    <string name="chat_label">Type</string>
+    <string name="action_send">Send</string>
+    <string name="user_label">User</string>
+    <string name="model_label">LLM</string>
+    <string name="disclaimer">What do you want me to suggest?</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="new_session">New</string>
+    <string name="history">History</string>
+    <string name="chat_history">Chat History</string>
+
+    <string-array name="user_roles">
+        <item>Gemma-2 2B</item>
+        <item>Gemma 2B</item>
+        <item>Falcon 1B</item>
+    </string-array>
+</resources>
+
