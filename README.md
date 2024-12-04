@@ -28,7 +28,7 @@
 https://drive.google.com/file/d/1o0HGi_P9GRoDeSc0MW2YaXK94V5AfYVD/view?usp=sharing
 ```
 
-# Example GIF  
+# Demo GIF  
 
 Here is a demo of the feature:  
 
