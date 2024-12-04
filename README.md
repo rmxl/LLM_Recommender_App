@@ -21,3 +21,15 @@
      ```
      https://www.kaggle.com/models/google/gemma-2/tfLite
      ```
+
+# Link to Demo Video
+
+```
+https://drive.google.com/file/d/1o0HGi_P9GRoDeSc0MW2YaXK94V5AfYVD/view?usp=sharing
+```
+
+# Example GIF  
+
+Here is a demo of the feature:  
+
+![Demo of the Feature](./demo.gif)
