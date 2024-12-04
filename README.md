@@ -5,8 +5,14 @@
 1. **Build the Project**
    - Open this project in **Android Studio**.
    - Build the project.
+     
+2. **Download and Use the Model**
+   - To use a sample model, download **Gemma2** from the following link:
+     ```
+     https://www.kaggle.com/models/google/gemma-2/tfLite
+     ```
 
-2. **Specify the Model Paths**
+3. **Specify the Model Paths**
    - Open the file `InferenceModel.kt`.
    - Execute the following command to push the model file to the device:
      ```
@@ -20,11 +26,6 @@
    - Remove any unnecessary model paths if not needed.
    - Change the corresponding options in `strings.xml` to change to the correct model name. The model path numbers are in the same order as in the XML file.
 
-3. **Download and Use the Model**
-   - To use a sample model, download **Gemma2** from the following link:
-     ```
-     https://www.kaggle.com/models/google/gemma-2/tfLite
-     ```
 
 # Link to Demo Video
 
