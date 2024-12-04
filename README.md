@@ -8,10 +8,14 @@
 
 2. **Specify the Model Paths**
    - Open the file `InferenceModel.kt`.
+   - Execute the following command to push the model file to the device:
+     ```
+     adb push "model/path/on/local/machine" "path/to/your/model/on/device"
+     ```
    - Specify the paths to your LLM stored on the device:
      ```kotlin
      // Example: Set the path to your model
-     private const val MODEL_PATH1 = "path/to/your/model"
+     private const val MODEL_PATH1 = "path/to/your/model/on/device"
      ```
    - Remove any unnecessary model paths if not needed.
    - Change the corresponding options in `strings.xml` to change to the correct model name. The model path numbers are in the same order as in the XML file.
